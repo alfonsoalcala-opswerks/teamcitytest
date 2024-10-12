@@ -1,1 +1,2 @@
 $COLOR
+%env.COLOR%
